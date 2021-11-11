@@ -1,6 +1,6 @@
 # LIPPIA Mobile Example Project
 
-## Purpose:
+##- Purpose:
 The following project has the purpose of demonstrate and let test automation developers to
 to test a Mobile App using Lippia Automation Framework and Docker Android stack https://github.com/budtmo/docker-android, based on Budi Utomo Docker Android project.
 
